@@ -1,0 +1,30 @@
+{
+  "name": "htmltesttools",
+  "version": "1.0.0",
+  "description": "Test all tools",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.9",
+    "run-sequence": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sovan107/TestHTMLTool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sovan107/TestHTMLTool/issues"
+  },
+  "homepage": "https://github.com/sovan107/TestHTMLTool#readme"
+}

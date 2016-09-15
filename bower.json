@@ -1,0 +1,22 @@
+{
+  "name": "TestHTMLTool",
+  "homepage": "https://github.com/sovan107/TestHTMLTool",
+  "authors": [
+    "sovan107 <sovan107@gmail.com>"
+  ],
+  "description": "This is a test project to check out all tools",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
